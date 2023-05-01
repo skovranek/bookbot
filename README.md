@@ -1,2 +1,2 @@
 # bookbot
-A boot.dev project. Practicing python and learning git and github. 
+A boot.dev tutorial project. Practicing python and learning git and github.
